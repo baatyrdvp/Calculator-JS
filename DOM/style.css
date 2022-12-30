@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.calculate {
+    text-align: center;
+    margin: 150px auto;
+}
+
+button {
+    background-color: rgb(254, 130, 47);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+}
+
+.input-block input {
+    width: 400px;
+    height: 30px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background-color: black;
+    color: white;
+}
+
+button {
+    width: 70px;
+    height: 40px;
+    font-size: 20px;
+}
+
+span {
+    color: yellow;
+}
+
+.result {
+    font-size: 20px;
+}
